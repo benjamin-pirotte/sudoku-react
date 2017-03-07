@@ -6,21 +6,18 @@
 * Redux 
 * Jest (Testing)
 
-## Features: 
+## Overview : 
 * Generate new sudokus
 * Change sudokus difficulties
 * Give hints to solve sudokus
 * Show errors when mistakes
 
-## How to Use: 
+## Getting Started : 
 Install packages : 
-** npm install **
+`npm install`
 
 Build and serve (port 3000): 
-** npm start **
+`npm start`
 
-Test: 
-** npm test **
-
-Test watch: 
-** npm test -- --watch **
+Test (watch): 
+`npm test (-- --watch)`
