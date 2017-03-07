@@ -1,0 +1,50 @@
+{
+  "name": "react_redux",
+  "version": "1.0.0",
+  "description": "Tutorial redux https://stormpath.com/blog/build-a-redux-powered-react-application",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest --config jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "redux"
+  ],
+  "author": "Benjamin Pirotte",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "@types/jest": "18.0.0",
+    "@types/react": "^0.14.36",
+    "@types/react-dom": "^0.14.17",
+    "@types/react-redux": "^4.4.36",
+    "@types/redux": "^3.6.0",
+    "awesome-typescript-loader": "^2.2.4",
+    "babel": "^6.5.2",
+    "babel-core": "^6.22.1",
+    "babel-jest": "^19.0.0",
+    "babel-loader": "^6.2.10",
+    "enzyme": "^2.7.1",
+    "jest": "^19.0.0",
+    "react-test-renderer": "^15.4.2",
+    "ts-jest": "^19.0.0",
+    "typescript": "2.0.3",
+    "webpack": "^1.9.6",
+    "webpack-dev-server": "^1.8.2"
+  },
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0"
+  }
+}
