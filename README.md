@@ -1,3 +1,21 @@
-# React-Redux
+Sudoku app developed with Typescript, React, React-DOM, Redux and using Jest for testing. 
 
-Tutorial React Redux https://stormpath.com/blog/build-a-redux-powered-react-application using Typescript with a todos list, a countdown, and a timer. 
+# Features: 
+Generate new sudokus
+Change sudokus difficulties
+Give hints to solve sudokus
+Show errors when mistakes
+
+# Use : 
+
+Install packages
+# npm install
+
+Build and serve on localhost:3000
+# npm start
+
+Test
+# npm test 
+
+Test watch
+# npm test -- --watch
