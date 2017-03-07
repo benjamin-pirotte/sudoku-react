@@ -12,15 +12,15 @@
 * Give hints to solve sudokus
 * Show errors when mistakes
 
-## How to Use : 
+## How to Use: 
 Install packages : 
-###### npm install
+** npm install **
 
-Build and serve (localhost:3000) : 
-###### npm start
+Build and serve (port 3000): 
+** npm start **
 
-Test : 
-###### npm test 
+Test: 
+** npm test **
 
 Test watch: 
-###### npm test -- --watch
+** npm test -- --watch **
