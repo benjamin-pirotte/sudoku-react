@@ -1,7 +1,7 @@
 {
-  "name": "react_redux",
+  "name": "sudoku_react",
   "version": "1.0.0",
-  "description": "Tutorial redux https://stormpath.com/blog/build-a-redux-powered-react-application",
+  "description": "Sudoku application using React and Redux",
   "scripts": {
     "start": "node server.js",
     "test": "jest --config jest.config.js"
